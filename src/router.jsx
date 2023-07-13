@@ -10,7 +10,7 @@ const router = createBrowserRouter([
 
     },
     {
-        path: "primarchs/:primarchId",
+        path: "primarch/:primarchIndex",
         element: <Primarch/>
     }
 ]);
