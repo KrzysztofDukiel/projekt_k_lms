@@ -1,7 +1,7 @@
 
 import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
-import Primarch from "./components/Primarchs.jsx";
+import Primarch from "./components/Primarch.jsx";
 
 const router = createBrowserRouter([
     {

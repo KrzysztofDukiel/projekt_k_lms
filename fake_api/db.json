@@ -1,89 +1,103 @@
- {
-   "primarchs": [
-  {
-    "index": 1,
-    "firstCaptain": "Lion El'Jonson",
-    "homePlanet": "Caliban",
-    "description": "Lion El'Jonson was the Primarch of the Dark Angels. He possessed exceptional strategic and tactical skills and was a formidable warrior."
-  },
-  {
-    "index": 2,
-    "firstCaptain": "Fulgrim",
-    "homePlanet": "Chemos",
-    "description": "Fulgrim was the Primarch of the Emperor's Children. He was known for his pursuit of perfection and his artistic nature, but eventually fell to chaos."
-  },
-  {
-    "index": 3,
-    "firstCaptain": "Perturabo",
-    "homePlanet": "Olympia",
-    "description": "Perturabo was the Primarch of the Iron Warriors. He was a master of siege warfare and had a talent for engineering and technology."
-  },
-  {
-    "index": 4,
-    "firstCaptain": "Jaghatai Khan",
-    "homePlanet": "Chogoris",
-    "description": "Jaghatai Khan was the Primarch of the White Scars. He was a masterful cavalry commander and his legion specialized in lightning-fast hit-and-run tactics."
-  },
-  {
-    "index": 5,
-    "firstCaptain": "Leman Russ",
-    "homePlanet": "Fenris",
-    "description": "Leman Russ was the Primarch of the Space Wolves. He was a fierce warrior and a skilled tactician, and his legion was known for its savage nature."
-  },
-  {
-    "index": 6,
-    "firstCaptain": "Rogal Dorn",
-    "homePlanet": "Terra",
-    "description": "Rogal Dorn was the Primarch of the Imperial Fists. He was a master of fortifications and defensive warfare, and his legion excelled in siegecraft."
-  },
-  {
-    "index": 7,
-    "firstCaptain": "Konrad Curze",
-    "homePlanet": "Nostramo",
-    "description": "Konrad Curze was the Primarch of the Night Lords. He had a brutal and ruthless nature and his legion specialized in terror tactics and psychological warfare."
-  },
-  {
-    "index": 8,
-    "firstCaptain": "Sanguinius",
-    "homePlanet": "Baal",
-    "description": "Sanguinius was the Primarch of the Blood Angels. He possessed angelic features and was a skilled warrior. His legion struggled with a dark flaw known as the Red Thirst."
-  },
-  {
-    "index": 9,
-    "firstCaptain": "Ferrus Manus",
-    "homePlanet": "Medusa",
-    "description": "Ferrus Manus was the Primarch of the Iron Hands. He was a master of technology and had a strong focus on cybernetic enhancements and bionic augmentations."
-  },
-  {
-    "index": 10,
-    "firstCaptain": "Horus Lupercal",
-    "homePlanet": "Cthonia",
-    "description": "Horus Lupercal was the Primarch of the Luna Wolves, later renamed the Sons of Horus. He was chosen to be the Warmaster and led the traitor forces during the Horus Heresy."
-  },
-  {
-    "index": 11,
-    "firstCaptain": "Angron",
-    "homePlanet": "Nuceria",
-    "description": "Angron was the Primarch of the World Eaters. He was a fierce and relentless warrior, and his legion became known for its berserk rage and love of close combat."
-  },
-  {
-    "index": 12,
-    "firstCaptain": "Roboute Guilliman",
-    "homePlanet": "Macragge",
-    "description": "Roboute Guilliman was the Primarch of the Ultramarines. He was a brilliant strategist and administrator and played a major role in shaping the Imperium of Man."
-  },
-  {
-    "index": 13,
-    "firstCaptain": "Mortarion",
-    "homePlanet": "Barbarus",
-    "description": "Mortarion was the Primarch of the Death Guard. He had a strong resistance to poisons and diseases and his legion became known for its resilience and endurance."
-  },
-  {
-    "index": 14,
-    "firstCaptain": "Magnus the Red",
-    "homePlanet": "Prospero",
-    "description": "Magnus the Red was the Primarch of the Thousand Sons. He possessed immense psychic powers and his legion delved deeply into sorcery and the pursuit of knowledge."
-  }
-
-]
+{
+  "primarchs": [
+    {
+      "id": 1,
+      "firstCaptain": "Lion El'Jonson",
+      "homePlanet": "Caliban",
+      "photo": "src/img/li.webp",
+      "description": "Lion El'Jonson was the Primarch of the Dark Angels. He possessed exceptional strategic and tactical skills and was a formidable warrior."
+    },
+    {
+      "id": 2,
+      "firstCaptain": "Fulgrim",
+      "homePlanet": "Chemos",
+      "photo": "src/img/fulgrim-124545-normal.jpg",
+      "description": "Fulgrim was the Primarch of the Emperor's Children. He was known for his pursuit of perfection and his artistic nature, but eventually fell to chaos."
+    },
+    {
+      "id": 3,
+      "firstCaptain": "Perturabo",
+      "homePlanet": "Olympia",
+      "photo": "src/img/perturabo-124546-normal.jpg",
+      "description": "Perturabo was the Primarch of the Iron Warriors. He was a master of siege warfare and had a talent for engineering and technology."
+    },
+    {
+      "id": 4,
+      "firstCaptain": "Jaghatai Khan",
+      "homePlanet": "Chogoris",
+      "photo": "src/img/Jaghatai_Khan.webp",
+      "description": "Jaghatai Khan was the Primarch of the White Scars. He was a masterful cavalry commander and his legion specialized in lightning-fast hit-and-run tactics."
+    },
+    {
+      "id": 5,
+      "firstCaptain": "Leman Russ",
+      "homePlanet": "Fenris",
+    "photo": "src/img/Leman_Russ.webp",
+      "description": "Leman Russ was the Primarch of the Space Wolves. He was a fierce warrior and a skilled tactician, and his legion was known for its savage nature."
+    },
+    {
+      "id": 6,
+      "firstCaptain": "Rogal Dorn",
+      "homePlanet": "Terra",
+      "photo": "src/img/images.jfif",
+      "description": "Rogal Dorn was the Primarch of the Imperial Fists. He was a master of fortifications and defensive warfare, and his legion excelled in siegecraft."
+    },
+    {
+      "id": 7,
+      "firstCaptain": "Konrad Curze",
+      "homePlanet": "Nostramo",
+      "photo": "src/img/konra.jfif",
+      "description": "Konrad Curze was the Primarch of the Night Lords. He had a brutal and ruthless nature and his legion specialized in terror tactics and psychological warfare."
+    },
+    {
+      "id": 8,
+      "firstCaptain": "Sanguinius",
+      "homePlanet": "Baal",
+      "photo": "src/img/Sans.jfif",
+      "description": "Sanguinius was the Primarch of the Blood Angels. He possessed angelic features and was a skilled warrior. His legion struggled with a dark flaw known as the Red Thirst."
+    },
+    {
+      "id": 9,
+      "firstCaptain": "Ferrus Manus",
+      "homePlanet": "Medusa",
+      "photo": "src/img/Ferr.jpg",
+      "description": "Ferrus Manus was the Primarch of the Iron Hands. He was a master of technology and had a strong focus on cybernetic enhancements and bionic augmentations."
+    },
+    {
+      "id": 10,
+      "firstCaptain": "Horus Lupercal",
+      "homePlanet": "Cthonia",
+      "photo": "src/img/ho.webp",
+      "description": "Horus Lupercal was the Primarch of the Luna Wolves, later renamed the Sons of Horus. He was chosen to be the Warmaster and led the traitor forces during the Horus Heresy."
+    },
+    {
+      "id": 11,
+      "firstCaptain": "Angron",
+      "homePlanet": "Nuceria",
+      "photo": "src/img/ANn.webp",
+      "description": "Angron was the Primarch of the World Eaters. He was a fierce and relentless warrior, and his legion became known for its berserk rage and love of close combat."
+    },
+    {
+      "id": 12,
+      "firstCaptain": "Roboute Guilliman",
+      "homePlanet": "Macragge",
+      "photo": "src/img/GI.webp",
+      "description": "Roboute Guilliman was the Primarch of the Ultramarines. He was a brilliant strategist and administrator and played a major role in shaping the Imperium of Man."
+    },
+    {
+      "id": 13,
+      "firstCaptain": "Mortarion",
+      "homePlanet": "Barbarus",
+      "photo": "src/img/mort.webp",
+      "description": "Mortarion was the Primarch of the Death Guard. He had a strong resistance to poisons and diseases and his legion became known for its resilience and endurance."
+    },
+    {
+      "id": 14,
+      "firstCaptain": "Magnus the Red",
+      "homePlanet": "Prospero",
+      "photo": "src/img/Magnus-the-Red.jpg",
+      "description": "Magnus the Red was the Primarch of the Thousand Sons. He possessed immense psychic powers and his legion delved deeply into sorcery and the pursuit of knowledge."
+    }
+  ]
 }
+
